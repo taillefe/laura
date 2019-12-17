@@ -11,7 +11,7 @@ public class Ejercicio1 {
 		lista = obtenerArray(frase);
 		//
 		//
-		
+		//
 		
 
 	}
