@@ -10,6 +10,9 @@ public class Ejercicio1 {
 		frase = obtenerTexto();
 		lista = obtenerArray(frase);
 		//
+		//
+		
+		
 
 	}
 
