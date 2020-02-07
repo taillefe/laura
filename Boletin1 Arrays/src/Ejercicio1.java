@@ -27,10 +27,12 @@ public class Ejercicio1 {
 		return texto;
 	}
 	
-	public static char[] obtenerArray(String t);
+	public static char[] obtenerArray(String t)
 	{
 		
-		
-		return 
+		String s="fdfdsdf";
+		String s8= new String(t.toCharArray()); // to CharArray convierte un string en array de caracteres
+												// y el constructor new String convierte un array de caracteres en un string
+		return null;
 	}
 }
